@@ -1,4 +1,4 @@
-
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgamizm.com%2Fai%2Fyapay-zeka-nedir%2F&psig=AOvVaw309Zqa7FpMJJ5Sk_6zuUX5&ust=1695768219964000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCOCG6ITrxoEDFQAAAAAdAAAAABAD)
 
 <h1 align="center">Hi 👋, I'm Tuncer Alevli</h1>
 <h3 align="center">Software Developer</h3>
