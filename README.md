@@ -1,4 +1,4 @@
-![MasterHead](https://gamizm.com/wp-content/uploads/ai-yapay-zeka-ana-kart.jpg)
+[MasterHead](https://gamizm.com/wp-content/uploads/ai-yapay-zeka-ana-kart.jpg)
 
 <h1 align="center">Hi 👋, I'm Tuncer Alevli</h1>
 <h3 align="center">Software Developer</h3>
