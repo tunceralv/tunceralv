@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tunceralv&label=Profile%20views&color=0e75b6&style=flat" alt="tunceralv" /> </p>
 
 
-- 🌱 I’m currently learning **Python for AI**
+- 🌱 **Data Science||Computer Vision||Deep Learning||Machine Learning**
 
 - 📫 How to reach me **tuncer.alevli@hotmail.com**
 
